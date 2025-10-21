@@ -1,2 +1,2 @@
 # climbing-trips
-A repository for trip planning
+A repository for trip planning. 
